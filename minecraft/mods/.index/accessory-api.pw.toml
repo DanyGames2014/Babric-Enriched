@@ -1,0 +1,16 @@
+filename = 'accessoryapi-0.7.1.jar'
+name = 'Accessory API'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '05e524a85eef2fa6135e521e3f552f15c2036b7c7332419c351bbe31aa308ad1d5cf5d77b1ce6c5497ebeab77587ec78a71424f392b88078c64fe4d59645dc82'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/K9k9gNxR/versions/aOWjYvFZ/accessoryapi-0.7.1.jar'
+
+[update.modrinth]
+mod-id = 'K9k9gNxR'
+version = 'aOWjYvFZ'

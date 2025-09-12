@@ -1,0 +1,17 @@
+[flavor_groups.flavor]
+name = "Aether"
+description = "Do you wish to install the Aether mod?"
+side = "both"
+[[flavor_groups.flavor.choices]]
+id = "aether_yes"
+name = "Yes"
+description = "Install the Aether mod"
+[[flavor_groups.flavor.choices]]
+id = "aether_no"
+name = "No"
+description = "Do not install the Aether mod"
+
+[metafile.aether]
+flavors = ["aether_yes"]
+[metafile.accessoryapi]
+flavor = ["aether_yes"]

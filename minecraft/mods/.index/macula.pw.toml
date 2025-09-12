@@ -1,0 +1,16 @@
+filename = 'Macula-1.1.jar'
+name = 'Macula'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3467be773e2579fd1be4eb1818ff35729aeaded3334ee2fc6cce6e4f8a651bf21c8df2ba4079c2b2beea8f637a58b99a49a2d04048b4ed4292b12aedc45c8405'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3PB429lb/versions/PQXdphNq/Macula-1.1.jar'
+
+[update.modrinth]
+mod-id = '3PB429lb'
+version = 'PQXdphNq'

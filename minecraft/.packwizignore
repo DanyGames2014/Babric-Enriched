@@ -9,3 +9,7 @@ texturepacks
 .gitignore
 icon.png
 options.txt
+
+# Flavor - Aether
+mods/aether-1.3.6.jar
+mods/accessoryapi-0.7.1.jar

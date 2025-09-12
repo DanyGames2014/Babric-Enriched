@@ -1,0 +1,11 @@
+name = "AccessoryAPI"
+filename = "accessoryapi-0.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K9k9gNxR/versions/aOWjYvFZ/accessoryapi-0.7.1.jar"
+hash-format = "sha256"
+hash = "79560fdb2c6503246747a6e95867cd06e5e0274c850a25470954c4f4e59055a8"
+
+[option]
+optional = true
