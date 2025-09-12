@@ -1,0 +1,11 @@
+.fabric
+mods/.index/
+logs
+resources
+saves
+server-resource-packs
+stats
+texturepacks
+.gitignore
+icon.png
+options.txt
