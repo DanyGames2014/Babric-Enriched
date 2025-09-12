@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "8e07ff0589bbf0a31e51eee511a96e120c7d33a6e21b24963620e6578b4cd353"
+hash = "537666f03ef62d5779bf4a03202edbd7931c90dc5b3792059ff1a2bc658d2ab3"
 metafile = true
 
 [[files]]
@@ -180,4 +180,4 @@ hash = "46c7e03928b9269dc0db768771a423403d516d0efe8bd385cf576cc25d44e20f"
 
 [[files]]
 file = "unsup.toml"
-hash = "946b8c61884b335746118a02d7dff23477e035b22f4932d7dbae2761691f2fa1"
+hash = "993d02fe6a5201436ff2889e01a613749aa1dc43106e93f52c9ba215196583f5"

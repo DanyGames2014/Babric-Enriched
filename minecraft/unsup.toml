@@ -13,5 +13,6 @@ description = "Do not install the Aether mod"
 
 [metafile.aether]
 flavors = ["aether_yes"]
+
 [metafile.accessoryapi]
 flavors = ["aether_yes"]
