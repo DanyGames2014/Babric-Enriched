@@ -1,12 +1,12 @@
-[flavor_groups.flavor]
+[flavor_groups.aether]
 name = "Aether"
 description = "Do you wish to install the Aether mod?"
 side = "both"
-[[flavor_groups.flavor.choices]]
+[[flavor_groups.aether.choices]]
 id = "aether_yes"
 name = "Yes"
 description = "Install the Aether mod"
-[[flavor_groups.flavor.choices]]
+[[flavor_groups.aether.choices]]
 id = "aether_no"
 name = "No"
 description = "Do not install the Aether mod"
