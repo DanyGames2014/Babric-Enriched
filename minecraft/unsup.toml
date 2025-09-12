@@ -1,7 +1,8 @@
 [flavor_groups.aether]
-name = "Aether"
+name = "Install Aether"
 description = "Do you wish to install the Aether mod?"
 side = "both"
+
 [[flavor_groups.aether.choices]]
 id = "aether_yes"
 name = "Yes"
