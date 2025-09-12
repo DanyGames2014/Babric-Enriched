@@ -9,6 +9,7 @@ texturepacks
 .gitignore
 icon.png
 options.txt
+unsup.toml
 
 # Flavor - Aether
 mods/aether-1.3.6.jar

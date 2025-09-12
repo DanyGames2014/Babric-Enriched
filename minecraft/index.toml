@@ -177,7 +177,3 @@ hash = "ac740259aa1c640f2fb3267e312872114144b0c0deb18cc3dec9133eb9e5ae74"
 [[files]]
 file = "shaderpacks/World Curvature Shaders.zip"
 hash = "46c7e03928b9269dc0db768771a423403d516d0efe8bd385cf576cc25d44e20f"
-
-[[files]]
-file = "unsup.toml"
-hash = "6466d2b9532b44daab717dbacb560709a3e584061dd99d0eb2c4ae9f2bf1bdc7"
