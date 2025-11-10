@@ -1,5 +1,6 @@
 .fabric
 mods/.index/
+mods/rei_minimap
 logs
 resources
 saves
@@ -12,5 +13,5 @@ options.txt
 unsup.toml
 
 # Flavor - Aether
-mods/aether-1.3.6.jar
+mods/aether-1.4.1.jar
 mods/accessoryapi-0.7.1.jar

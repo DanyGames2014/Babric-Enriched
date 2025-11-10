@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/accessoryapi/config.yml"
+hash = "2f54c16802d69222664bd20c5616aca99c076202bc4a3a6d462fea5f23bc0e7d"
+
+[[files]]
 file = "config/alwaysmoreitems/config.yml"
 hash = "2c13e1b61cc0514066ef0732cd53523985e4b91f65fae03026080721db45f333"
 
@@ -73,16 +77,16 @@ file = "config/unitweaks/userinterface.yml"
 hash = "2d2289a47d69e1148a21cecfb271b1fb5b165d4a59d7c956bc6b2c0c153f0f30"
 
 [[files]]
-file = "mods/AlwaysMoreItems-1.7.0.jar"
-hash = "c3d0672987278b9113189e7b9760b204686401d3f95dede9e80116c530466c46"
+file = "mods/AlwaysMoreItems-1.7.1.jar"
+hash = "fadf6684016664be3e8fecc07e405f46d23401cabc71d80141d78f88d707b4c8"
 
 [[files]]
 file = "mods/BHCreative-0.4.9.jar"
 hash = "b98173892b37f235b5a7db0ece1cd43508b42757fdb259bbddad7a03ca04dab0"
 
 [[files]]
-file = "mods/GlassConfigAPI-3.2.4.jar"
-hash = "f98854a0ff1d915c38d25cf8aef6fb36a5b947dc18798d241fabf83ed4b82908"
+file = "mods/GlassConfigAPI-3.2.5.jar"
+hash = "521fd621dd3aede2132fa06572e3493cd2dc99e453cc5a1fde79aee9f37c639f"
 
 [[files]]
 file = "mods/HudTweaks-1.8.0.jar"
@@ -109,8 +113,8 @@ file = "mods/StationAPI-2.0.0-alpha.5.2.jar"
 hash = "5b111d0a058e824180511ee2399c9a7695aa6320172efbc50d7605ba725cce29"
 
 [[files]]
-file = "mods/UniTweaks-0.22.2.jar"
-hash = "cca4d95fcc7306e508bf0af3b7c8a0f664aabed395fbacf675bc6cd7611384fe"
+file = "mods/UniTweaks-0.23.1.jar"
+hash = "87010dcd795d14d5f52fc5216ccd7078cb2d49b400d248452cf4d5edb0e7698e"
 
 [[files]]
 file = "mods/accessoryapi.pw.toml"
@@ -119,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "537666f03ef62d5779bf4a03202edbd7931c90dc5b3792059ff1a2bc658d2ab3"
+hash = "9021373fd29290673c6b551225ae88ea2b323768ee9803e90bae68ea02633949"
 metafile = true
 
 [[files]]
@@ -135,8 +139,8 @@ file = "mods/freecam-0.3.2.jar"
 hash = "f35c5b07ef0359d76f07d1ff5c1b4b8c32030e1fdbb6aca900f9e7b7326f7283"
 
 [[files]]
-file = "mods/gambac-1.3.0.jar"
-hash = "e7908cd73404dd71482883ac56ce38e7c3d110855a40ddd42f211f58d8098d6b"
+file = "mods/gambac-1.3.1.jar"
+hash = "0fe10019cd274cb33a1ba064fabea4e906010df16a11a7c7eb9ac455db153ef8"
 
 [[files]]
 file = "mods/glass-networking-1.0.7.jar"
