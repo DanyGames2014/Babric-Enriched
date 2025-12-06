@@ -1,16 +1,16 @@
-filename = 'modmenu-1.0.1.jar'
-name = 'Mod Menu Babric'
-side = 'client'
+filename = 'modmenu-1.1.0.jar'
+name = 'ModMenu Babric'
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'fb1c36313818bb177178e06246de38e76291f7f2b8956a04923936db5f4b734173029e7045d001a6ac461e3239c64ef9ec3f5318cd52059f98cf5960f21f1ff6'
+hash = '51408e602c0a20215403cd89b8141e7613f2017a062812d7b56775ad090c83b71e94f4bd7aea3229538d2e7d1f981a9eecf99142dd9f8bf9da5f19cc73f31cb0'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/vf3X9pHM/versions/EVoyvUs2/modmenu-1.0.1.jar'
+url = 'https://cdn.modrinth.com/data/vf3X9pHM/versions/Ab3IGpFT/modmenu-1.1.0.jar'
 
 [update.modrinth]
 mod-id = 'vf3X9pHM'
-version = 'EVoyvUs2'
+version = 'Ab3IGpFT'

@@ -26,7 +26,7 @@ hash = "42a84c55f9a673facf5d1e1ece38dab2cd4121bb4b4db11faf42b33f9ebafbe7"
 
 [[files]]
 file = "config/inventorytweaks/inventoryTweaks.yml"
-hash = "1a6c36fe7d027b3edd0a602d915a4a8d3c1f40ce3457338af92e7ff3a899d608"
+hash = "52c903f6c05edcfc53f52410172c4448aeb1b51b4a60a2429478421a0069e669"
 
 [[files]]
 file = "config/macula/shaders.properties"
@@ -34,11 +34,11 @@ hash = "cc751c9cfbc4e3dab13c67521e8f91047bf1fa0efad7e7aaf674691ea8e5a460"
 
 [[files]]
 file = "config/misctweaks/config.yml"
-hash = "276668778129f4d27d0e0836b82b78348659be40d0d4e1a3ed32ddf2c38f8db6"
+hash = "324b926a951e08e752efda009b38e0c61d391227b7aafebd7c87e16f432e3c12"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "4257a25ec78b98ae66a01731303121cff4b87c851d092fc644c122b9896702d3"
+hash = "6922561992fc6aa051ce9b3a75fd04711297e0eb65232ce6a09a534054193840"
 
 [[files]]
 file = "config/station-api-configuration/config.yml"
@@ -46,11 +46,11 @@ hash = "5f12c760bf980afa2cf6b331f4e87c884f5c6a36c99a0869bf5379b981c62b29"
 
 [[files]]
 file = "config/unitweaks/bugfixes.yml"
-hash = "e572695e156e7bb51fa10a94d0433d0a0faaff65eb32cf7b0f1f20049fb570e4"
+hash = "1c3edb862122e916a568196eb1a93743f88698717b3ad89ee30f6483eb247f45"
 
 [[files]]
 file = "config/unitweaks/features.yml"
-hash = "81b24af0d2bdd517168accd453fc64682d828c5c63b6f1fd08875236dd39c5a7"
+hash = "c825f54736e464072648650a2938d72ec730bccc976d573a86d49a016933b79c"
 
 [[files]]
 file = "config/unitweaks/gameplay.yml"
@@ -66,7 +66,7 @@ hash = "b52beb3305505fa7df100e7ef09390da8116c907044b85c7d58cef1014416cc0"
 
 [[files]]
 file = "config/unitweaks/recipes.yml"
-hash = "0a560e4e1f5214f0ae9a6bbfcaba164c748042899d49257ea731f6d15641cb74"
+hash = "bb0c06acb47e840adbc6faebdf6f17875b2f860298679417046d84b75915a5da"
 
 [[files]]
 file = "config/unitweaks/tweaks.yml"
@@ -93,16 +93,16 @@ file = "mods/HudTweaks-1.8.0.jar"
 hash = "a62c6684cf8a5f7a0d766356ff369a0556609cb3f76a0216119765ac342a7bfb"
 
 [[files]]
-file = "mods/InventoryTweaks-2.5.2.jar"
-hash = "b35746b1150ca1523ada68f24f0149158a87813b8dbddef69252349d1e161d31"
+file = "mods/InventoryTweaks-2.6.0.jar"
+hash = "5e374610c9a76bf7a30aed64bcaf301a857401ce3258495e637983ab3bd8ca61"
 
 [[files]]
 file = "mods/Macula-1.1.jar.disabled"
 hash = "c2fe861a421db9d42c16de16e41fdec7331e4b5a6e5928aa3ff8376a295c4c21"
 
 [[files]]
-file = "mods/MiscTweaks-5.4.0.jar"
-hash = "ed872d47d3cf067f7a4bf6059603d0b1ac48375ce6359ca70b7d0d3b29822a85"
+file = "mods/MiscTweaks-5.5.1.jar"
+hash = "048e3d61b344c991805f5368d9c9b9a1c4cca8afc10d8f291acfaa3267846ef6"
 
 [[files]]
 file = "mods/SmoothBeta-1.1.7.jar"
@@ -113,8 +113,8 @@ file = "mods/StationAPI-2.0.0-alpha.5.2.jar"
 hash = "5b111d0a058e824180511ee2399c9a7695aa6320172efbc50d7605ba725cce29"
 
 [[files]]
-file = "mods/UniTweaks-0.23.1.jar"
-hash = "87010dcd795d14d5f52fc5216ccd7078cb2d49b400d248452cf4d5edb0e7698e"
+file = "mods/UniTweaks-0.24.1.jar"
+hash = "2bba01410a33d7e083f71eb6e0b1ed5e51e76b1e19cdd87506e714d1517979bc"
 
 [[files]]
 file = "mods/accessoryapi.pw.toml"
@@ -147,8 +147,8 @@ file = "mods/glass-networking-1.0.7.jar"
 hash = "992190f8e7f904afe6e1e311ad17ea18c1c2ebced6dbee41a8a62b9723c3751d"
 
 [[files]]
-file = "mods/modmenu-1.0.1.jar"
-hash = "efd2dd2e2e3b873dd34f4d771881e868adede01a44eac3fb632534391ffdd0e9"
+file = "mods/modmenu-1.1.0.jar"
+hash = "3a091448bab1c4bc338294ae72ba92bc96dee4ad84b30b9d11483cbd811f39cd"
 
 [[files]]
 file = "mods/retroauth-1.1.1.jar"
