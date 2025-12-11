@@ -147,8 +147,8 @@ file = "mods/glass-networking-1.0.7.jar"
 hash = "992190f8e7f904afe6e1e311ad17ea18c1c2ebced6dbee41a8a62b9723c3751d"
 
 [[files]]
-file = "mods/modmenu-1.1.0.jar"
-hash = "3a091448bab1c4bc338294ae72ba92bc96dee4ad84b30b9d11483cbd811f39cd"
+file = "mods/modmenu-1.1.1.jar"
+hash = "f9cae45c4de9f8b440701e95b3335dc3b7865e2a5993f6c9f6205aac6044c654"
 
 [[files]]
 file = "mods/retroauth-1.1.1.jar"
