@@ -77,8 +77,8 @@ file = "config/unitweaks/userinterface.yml"
 hash = "2d2289a47d69e1148a21cecfb271b1fb5b165d4a59d7c956bc6b2c0c153f0f30"
 
 [[files]]
-file = "mods/AlwaysMoreItems-1.7.1.jar"
-hash = "fadf6684016664be3e8fecc07e405f46d23401cabc71d80141d78f88d707b4c8"
+file = "mods/AlwaysMoreItems-1.8.0.jar"
+hash = "4fcb85b338ff356639c3792496f6ad4878580d42ec1592c46b89083df2ebb58b"
 
 [[files]]
 file = "mods/BHCreative-0.4.9.jar"
@@ -93,8 +93,8 @@ file = "mods/HudTweaks-1.8.0.jar"
 hash = "a62c6684cf8a5f7a0d766356ff369a0556609cb3f76a0216119765ac342a7bfb"
 
 [[files]]
-file = "mods/InventoryTweaks-2.6.0.jar"
-hash = "5e374610c9a76bf7a30aed64bcaf301a857401ce3258495e637983ab3bd8ca61"
+file = "mods/InventoryTweaks-2.6.1.jar"
+hash = "cfc7fe94d943c01eea85c8aca6d056500143413bd4ac219eea928d1a2c60c6c8"
 
 [[files]]
 file = "mods/Macula-1.1.jar.disabled"
@@ -109,12 +109,12 @@ file = "mods/SmoothBeta-1.1.7.jar"
 hash = "c6646f3e3538e02789ed2c101bf98b332b6ab319259dd1d1be1e488fc3496b5f"
 
 [[files]]
-file = "mods/StationAPI-2.0.0-alpha.5.2.jar"
-hash = "5b111d0a058e824180511ee2399c9a7695aa6320172efbc50d7605ba725cce29"
+file = "mods/StationAPI-2.0.0-alpha.5.4.jar"
+hash = "96ebde84c1247a49b6ba54d0f047eaed63e30e903759a4dec9e9e526c24739e3"
 
 [[files]]
-file = "mods/UniTweaks-0.24.1.jar"
-hash = "2bba01410a33d7e083f71eb6e0b1ed5e51e76b1e19cdd87506e714d1517979bc"
+file = "mods/UniTweaks-0.25.1.jar"
+hash = "0c86c10c40c1638d55558192a2fe0568a012f485f1c112185420e56bd3b41a88"
 
 [[files]]
 file = "mods/accessoryapi.pw.toml"

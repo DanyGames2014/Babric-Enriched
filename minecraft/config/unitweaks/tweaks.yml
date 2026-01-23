@@ -8,6 +8,7 @@
 
 sugarCaneOnSand: true
 boatsDropThemselves: true
+pumpkinsPlaceableLikeNormal: true
 fencesPlaceableLikeNormal: true
 fencesConnectBlocks: true
 bookshelvesDropBooks: true
