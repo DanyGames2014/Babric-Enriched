@@ -70,7 +70,7 @@ hash = "bb0c06acb47e840adbc6faebdf6f17875b2f860298679417046d84b75915a5da"
 
 [[files]]
 file = "config/unitweaks/tweaks.yml"
-hash = "545b77d52276098509c7909e2353a992be2a29f0bb8cc9d70c60a1eb6b2a3213"
+hash = "32698f372c01f6e41d2d5072af9b5e43f851a81cb88c156037bec0a6121d0288"
 
 [[files]]
 file = "config/unitweaks/userinterface.yml"
