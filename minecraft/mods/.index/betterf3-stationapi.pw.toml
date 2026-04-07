@@ -1,16 +1,17 @@
-filename = 'betterf3-0.5.3.jar'
-name = 'BetterF3 StationAPI'
-side = 'client'
+filename = 'betterf3-0.6.1.jar'
+name = 'BetterF3'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3', 'b1.7.3' ]
 x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.6.1'
 
 [download]
-hash = '50c3c6de8929c9c2dd63cccd9504ef6acfdaf8a1d164d1c67ab5e58f08966d2dc752583be483553f3999a7fafca677d7bf5a65a0948ad56a829a19465f7b41b4'
+hash = '056a5e96de935ac4c98735392f041ce816e405b486b7e4b831d743e0723ebdca9cb628b8a3d5975db7953a9678c8590e8358fcc18a75b0328fdcf58e3b1f7c7d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/NhFO9av6/versions/etJJbJlG/betterf3-0.5.3.jar'
+url = 'https://cdn.modrinth.com/data/NhFO9av6/versions/Hhlr2gVD/betterf3-0.6.1.jar'
 
 [update.modrinth]
 mod-id = 'NhFO9av6'
-version = 'etJJbJlG'
+version = 'Hhlr2gVD'

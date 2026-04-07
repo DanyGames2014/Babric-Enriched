@@ -77,8 +77,8 @@ file = "config/unitweaks/userinterface.yml"
 hash = "2d2289a47d69e1148a21cecfb271b1fb5b165d4a59d7c956bc6b2c0c153f0f30"
 
 [[files]]
-file = "mods/AlwaysMoreItems-1.8.0.jar"
-hash = "4fcb85b338ff356639c3792496f6ad4878580d42ec1592c46b89083df2ebb58b"
+file = "mods/AlwaysMoreItems-1.9.0.jar"
+hash = "b590e2482f28b304ed512d9ad7550ba11e7221a0e9281dc15a825f0d1a2d7ab5"
 
 [[files]]
 file = "mods/BHCreative-0.4.9.jar"
@@ -89,8 +89,8 @@ file = "mods/GlassConfigAPI-3.2.5.jar"
 hash = "521fd621dd3aede2132fa06572e3493cd2dc99e453cc5a1fde79aee9f37c639f"
 
 [[files]]
-file = "mods/HudTweaks-1.8.0.jar"
-hash = "a62c6684cf8a5f7a0d766356ff369a0556609cb3f76a0216119765ac342a7bfb"
+file = "mods/HudTweaks-1.9.0.jar"
+hash = "2f79535e09f7918ebcf63d13f9f7d0a2089c8f4538b28f1e6fa8795283994a89"
 
 [[files]]
 file = "mods/InventoryTweaks-2.6.1.jar"
@@ -113,8 +113,8 @@ file = "mods/StationAPI-2.0.0-alpha.5.4.jar"
 hash = "96ebde84c1247a49b6ba54d0f047eaed63e30e903759a4dec9e9e526c24739e3"
 
 [[files]]
-file = "mods/UniTweaks-0.25.1.jar"
-hash = "0c86c10c40c1638d55558192a2fe0568a012f485f1c112185420e56bd3b41a88"
+file = "mods/UniTweaks-0.27.0.jar"
+hash = "7a0caa67d0a547cfa84d8c03854b61ee89dd6d6b9cbae0d9a0ccf15f8320a0dd"
 
 [[files]]
 file = "mods/accessoryapi.pw.toml"
@@ -127,8 +127,8 @@ hash = "9021373fd29290673c6b551225ae88ea2b323768ee9803e90bae68ea02633949"
 metafile = true
 
 [[files]]
-file = "mods/betterf3-0.5.3.jar"
-hash = "7029e32533178789058260531523ad90eccca90d68b9cdf4806a6c141a00483c"
+file = "mods/betterf3-0.6.1.jar"
+hash = "bef797f1ecd1026df0aef605b3d48fc22f710fc2b1953b71a10bba01915e00ac"
 
 [[files]]
 file = "mods/entity-culling-1.6.3.jar"
@@ -181,3 +181,7 @@ hash = "ac740259aa1c640f2fb3267e312872114144b0c0deb18cc3dec9133eb9e5ae74"
 [[files]]
 file = "shaderpacks/World Curvature Shaders.zip"
 hash = "46c7e03928b9269dc0db768771a423403d516d0efe8bd385cf576cc25d44e20f"
+
+[[files]]
+file = "unsup.ini"
+hash = "211d4e4e3aff3fab651a21f552be865efd4d4166f67e0c6e4fde53f1acc69597"
