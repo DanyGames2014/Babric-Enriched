@@ -118,12 +118,12 @@ hash = "a8676d5aa480c501691aa7fa5d3beebfd9fe1a146c1be9e66218a8a595dd2f2d"
 
 [[files]]
 file = "mods/accessoryapi.pw.toml"
-hash = "f0e7b1f4761a546207f4cca0222625b790cbfd96a4246542a84965d4b3da07eb"
+hash = "071f4ac026b2570bece5f014950ef754d698972a072ea65951e4020351788642"
 metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "9805c7dae4c073cf3094a6b40bc47cc67513b271cbc284b8bf0a1c0a2496dd28"
+hash = "cd21f432c5c9012b137f271643e2c468e84f32c391e72160424943b4cf87c178"
 metafile = true
 
 [[files]]

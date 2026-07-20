@@ -3,6 +3,7 @@ filename = "accessory-api-0.9.0-babric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/K9k9gNxR/versions/FiHlIw2q/accessory-api-0.9.0-babric.jar"
 hash-format = "sha256"
 hash = "3ccb4a3fc21e36e415086b01ade3c48a3b6822ec78c6e86c6b7ed1d4fcb9920e"
 
