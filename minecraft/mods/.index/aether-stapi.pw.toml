@@ -1,16 +1,26 @@
-filename = 'aether-1.4.1.jar'
-name = 'Aether'
+filename = 'aether-1.5.0.jar'
+name = 'Aether on Station API'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.5.0'
 
 [download]
-hash = 'ebe9cc315ef88a80aebaf5e2048fe7ddbf3a736a8999238b7cab0383271ad796f5dd8b9e685dfc902715a0a99538ddd3bb2916d25c5f267b80fa086b10f0d089'
+hash = '37fdd2adebc309d5ca530ad5c3ab0dfaf1019c8b60a0aed3f196e19a0b57e4e865b9ba20cacc14cf37474558b9eec7033932054abe279a681ddcac6b93659fd1'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/9XSScuqN/versions/cBkbpDhz/aether-1.4.1.jar'
+url = 'https://cdn.modrinth.com/data/9XSScuqN/versions/drAvt4sf/aether-1.5.0.jar'
 
 [update.modrinth]
 mod-id = '9XSScuqN'
-version = 'cBkbpDhz'
+version = 'drAvt4sf'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'K9k9gNxR'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
+type = 'REQUIRED'
+version = 'lpvJITem'

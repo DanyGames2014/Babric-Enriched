@@ -8,6 +8,7 @@
 
 sugarCaneOnSand: true
 boatsDropThemselves: true
+boatsDontBreak: false
 pumpkinsPlaceableLikeNormal: true
 fencesPlaceableLikeNormal: true
 fencesConnectBlocks: true
@@ -26,3 +27,4 @@ disableSleepSpawning: false
 preventItemsStoppingMinecarts: true
 allowIgnitingEntities: false
 allowTrapdoorsWithoutSupport: true
+beta18LeavesRendering: false

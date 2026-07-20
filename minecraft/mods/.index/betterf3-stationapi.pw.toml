@@ -1,17 +1,25 @@
-filename = 'betterf3-0.6.1.jar'
+filename = 'betterf3-0.7.0.jar'
 name = 'BetterF3'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ 'b1.7.3', 'b1.7.3' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '0.6.1'
+x-prismlauncher-version-number = '0.7.0'
 
 [download]
-hash = '056a5e96de935ac4c98735392f041ce816e405b486b7e4b831d743e0723ebdca9cb628b8a3d5975db7953a9678c8590e8358fcc18a75b0328fdcf58e3b1f7c7d'
+hash = 'dab83f7e2de871c9863f8db8b73c7308c5321328473652d4079025a8ccfc695c597a1d6c5e0071ee66a2f4472b3a04cadc7fade77d17527088aca6c1ab7c6804'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/NhFO9av6/versions/Hhlr2gVD/betterf3-0.6.1.jar'
+url = 'https://cdn.modrinth.com/data/NhFO9av6/versions/kpncS0z4/betterf3-0.7.0.jar'
 
 [update.modrinth]
 mod-id = 'NhFO9av6'
-version = 'Hhlr2gVD'
+version = 'kpncS0z4'
+
+[[x-prismlauncher-dependencies]]
+addonId = '472oW63Q'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vf3X9pHM'
+type = 'OPTIONAL'

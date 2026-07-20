@@ -13,5 +13,5 @@ options.txt
 unsup.toml
 
 # Flavor - Aether
-mods/aether-1.4.1.jar
-mods/accessoryapi-0.7.1.jar
+mods/aether-1.5.0.jar
+mods/accessory-api-0.9.0-babric.jar

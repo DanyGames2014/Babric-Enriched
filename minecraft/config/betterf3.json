@@ -7,15 +7,16 @@
 		"space_modules": false,
 		"shadow_text": true,
 		"animations": true,
-		"disable_lagometer": true
+		"disable_lagometer": false
 	},
 	"modules_right": [
 		{
-			"name": "system",
 			"name_color": 16755200,
 			"value_color": 5636095,
+			"id": "betterf3:system_module",
 			"lines": {
 				"opengl_version": true,
+				"allocation_rate": true,
 				"display": true,
 				"java_version": true,
 				"gpu_driver": true,
@@ -27,16 +28,16 @@
 			"enabled": true
 		}, 
 		{
-			"name": "empty",
+			"id": "betterf3:empty_module",
 			"lines": {
 				"": true
 			},
 			"enabled": true
 		}, 
 		{
-			"name": "target",
 			"name_color": 43775,
 			"value_color": 16777045,
+			"id": "betterf3:target_module",
 			"lines": {
 				"": true,
 				"block_entity": false,
@@ -52,9 +53,9 @@
 	],
 	"modules_left": [
 		{
-			"name": "minecraft",
 			"name_color": 10506797,
 			"value_color": 43520,
+			"id": "betterf3:minecraft_module",
 			"lines": {
 				"minecraft": true
 			},
@@ -63,7 +64,8 @@
 		{
 			"color_high": 5635925,
 			"color_med": 16777045,
-			"name": "fps",
+			"name_color": 5635925,
+			"id": "betterf3:fps_module",
 			"lines": {
 				"fps": true
 			},
@@ -74,8 +76,8 @@
 			"color_x": 16733525,
 			"color_y": 5635925,
 			"color_z": 5636095,
-			"name": "coords",
 			"name_color": 16733525,
+			"id": "betterf3:coords_module",
 			"lines": {
 				"chunk_coords": true,
 				"player_coords": true,
@@ -85,9 +87,9 @@
 			"enabled": true
 		}, 
 		{
-			"name": "location",
 			"name_color": 43520,
 			"value_color": 5636095,
+			"id": "betterf3:location_module",
 			"lines": {
 				"difficulty": true,
 				"light": true,
@@ -101,16 +103,16 @@
 			"enabled": true
 		}, 
 		{
-			"name": "entity",
 			"name_color": 16733525,
 			"value_color": 16777045,
+			"id": "betterf3:entity_module",
 			"lines": {
 				"entities": true
 			},
 			"enabled": true
 		}, 
 		{
-			"name": "empty",
+			"id": "betterf3:empty_module",
 			"lines": {
 				"": true
 			},

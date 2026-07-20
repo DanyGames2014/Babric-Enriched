@@ -46,6 +46,9 @@ springPropagationFix: true
 # Fixes lava not dissapearing without a source block
 lavaWithoutSourceFix: true
 
+# Fixes liquid flowing down from above not dropping items such as torches and rails when broken
+liquidBlockDropFix: true
+
 # Skeletons and Players now hold bows properly
 bowHeldFix: true
 leggingsWhenRidingFix: true
@@ -83,5 +86,5 @@ lastDurabilityFix: true
 # Fixes the bottom face of a fence being dark when placed on block
 fenceLightingFix: true
 
-# NOT RECOMMENDED! Fixes the canvas not adjusting properly on higher than 100% display scaling
-hiDpiFix: false
+# Fixes torches not having bottom faces rendered
+torchBottomFaceFix: true

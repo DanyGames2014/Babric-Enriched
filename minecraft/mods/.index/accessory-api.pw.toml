@@ -1,16 +1,18 @@
-filename = 'accessoryapi-0.7.1.jar'
+filename = 'accessory-api-0.9.0-babric.jar'
 name = 'Accessory API'
 side = 'both'
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ 'b1.7.3' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.9.0+gen2'
 
 [download]
-hash = '05e524a85eef2fa6135e521e3f552f15c2036b7c7332419c351bbe31aa308ad1d5cf5d77b1ce6c5497ebeab77587ec78a71424f392b88078c64fe4d59645dc82'
+hash = 'f6391a2aa0dfd8bee3ee74d032e0792c32d1b8c0f7dd8decef3a28e5a378528306bdb0e49a6514d95c48103c7bc71b88dfb997290094a60b1e5203827e65c37b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/K9k9gNxR/versions/aOWjYvFZ/accessoryapi-0.7.1.jar'
+url = 'https://cdn.modrinth.com/data/K9k9gNxR/versions/FiHlIw2q/accessory-api-0.9.0-babric.jar'
 
 [update.modrinth]
 mod-id = 'K9k9gNxR'
-version = 'aOWjYvFZ'
+version = 'FiHlIw2q'

@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/accessoryapi/config.yml"
-hash = "2f54c16802d69222664bd20c5616aca99c076202bc4a3a6d462fea5f23bc0e7d"
+hash = "e2fd67155d66aa323ff1fb09acf53e3dcc4dd17d5a6938b65a88967bb347ebd6"
 
 [[files]]
 file = "config/alwaysmoreitems/config.yml"
-hash = "2c13e1b61cc0514066ef0732cd53523985e4b91f65fae03026080721db45f333"
+hash = "d82628d48ce427d949218790f87d7a5cf5cff9843234fc6fa5da6708a05c8644"
 
 [[files]]
 file = "config/betterf3.json"
-hash = "d9c0e7c5355fab4f07dc01df6ca0e6b2bc8b9db4e80d8d1b59d9ce64a0f94c9c"
+hash = "7a29bca4b76a194ac93399f32840d341cdcb5bf966e6584f9ec87c7c123a2854"
 
 [[files]]
 file = "config/freecam/config.yml"
@@ -18,7 +18,7 @@ hash = "e895407940aa1d9a6e885c485c2488703e52e91d1a8be06e65ab18212298bee5"
 
 [[files]]
 file = "config/hudtweaks/config.yml"
-hash = "61ae4cededba0f4328aa9b5f59829d262de722f73c1526f8f4cae991443103ae"
+hash = "0dcea1ddb0a65d44e2ba679b09737cff26bca4a17e171e16a990271d1ab11c1d"
 
 [[files]]
 file = "config/hudtweaks/hudpositions.yml"
@@ -41,12 +41,16 @@ file = "config/modmenu.json"
 hash = "6922561992fc6aa051ce9b3a75fd04711297e0eb65232ce6a09a534054193840"
 
 [[files]]
+file = "config/shineko/general.yml"
+hash = "9f602097d38a1b827e346f07df9d75709e33ab063b8cf7a648a29c48000dc250"
+
+[[files]]
 file = "config/station-api-configuration/config.yml"
 hash = "5f12c760bf980afa2cf6b331f4e87c884f5c6a36c99a0869bf5379b981c62b29"
 
 [[files]]
 file = "config/unitweaks/bugfixes.yml"
-hash = "1c3edb862122e916a568196eb1a93743f88698717b3ad89ee30f6483eb247f45"
+hash = "457ad14edb3593f4d0d137aaff02e81b1a4c2c635f3efea2dc3e271a4ae0a238"
 
 [[files]]
 file = "config/unitweaks/features.yml"
@@ -54,11 +58,11 @@ hash = "c825f54736e464072648650a2938d72ec730bccc976d573a86d49a016933b79c"
 
 [[files]]
 file = "config/unitweaks/gameplay.yml"
-hash = "e256ebc77e6d3a2ffc07a69bd9a266d4a53a5815d54ccd21539f6a989ae780bd"
+hash = "3ce2fadbdcade0bc6194ec0e537c49351996bb00d68d24aca1963642218b819e"
 
 [[files]]
 file = "config/unitweaks/general.yml"
-hash = "128980ca597f29231bd351440352bfebe3ad3f7ea277bc8d0047b045aece7abf"
+hash = "d1d66e5d1582c45f7cddb9c71d46933dcf946626f5cb399dc669cce8cfcc16bd"
 
 [[files]]
 file = "config/unitweaks/oldfeatures.yml"
@@ -70,15 +74,15 @@ hash = "bb0c06acb47e840adbc6faebdf6f17875b2f860298679417046d84b75915a5da"
 
 [[files]]
 file = "config/unitweaks/tweaks.yml"
-hash = "32698f372c01f6e41d2d5072af9b5e43f851a81cb88c156037bec0a6121d0288"
+hash = "b8796637ac4931f6ec28ddb0ef3786336b6811704079795df577e331e0a07334"
 
 [[files]]
 file = "config/unitweaks/userinterface.yml"
-hash = "2d2289a47d69e1148a21cecfb271b1fb5b165d4a59d7c956bc6b2c0c153f0f30"
+hash = "14709d6c667de240e5353134114832983f5c162fe4bdd2d83eeaed8775c36fde"
 
 [[files]]
-file = "mods/AlwaysMoreItems-1.9.0.jar"
-hash = "b590e2482f28b304ed512d9ad7550ba11e7221a0e9281dc15a825f0d1a2d7ab5"
+file = "mods/AlwaysMoreItems-1.10.0.jar"
+hash = "f48fc1f550c5614ddc048d8334951292e1614296e53a5cdd08ecf045d93af572"
 
 [[files]]
 file = "mods/BHCreative-0.4.9.jar"
@@ -105,30 +109,30 @@ file = "mods/MiscTweaks-5.5.1.jar"
 hash = "048e3d61b344c991805f5368d9c9b9a1c4cca8afc10d8f291acfaa3267846ef6"
 
 [[files]]
-file = "mods/SmoothBeta-1.1.7.jar"
-hash = "c6646f3e3538e02789ed2c101bf98b332b6ab319259dd1d1be1e488fc3496b5f"
+file = "mods/StationAPI-2.0.0-alpha.6.2.jar"
+hash = "fd557e5d05630e79913e9cf422804039be0117b45a1e9f0e03dcc89eddc22602"
 
 [[files]]
-file = "mods/StationAPI-2.0.0-alpha.5.4.jar"
-hash = "96ebde84c1247a49b6ba54d0f047eaed63e30e903759a4dec9e9e526c24739e3"
-
-[[files]]
-file = "mods/UniTweaks-0.27.0.jar"
-hash = "7a0caa67d0a547cfa84d8c03854b61ee89dd6d6b9cbae0d9a0ccf15f8320a0dd"
+file = "mods/UniTweaks-0.29.0.jar"
+hash = "a8676d5aa480c501691aa7fa5d3beebfd9fe1a146c1be9e66218a8a595dd2f2d"
 
 [[files]]
 file = "mods/accessoryapi.pw.toml"
-hash = "5cd39e3dbf940580117bd2f220f83b762c0c6712460097b7d4a1a6adc62e5b56"
+hash = "006b4b53441a4de4ea07942c1538df29ca2a10ff72afb82a5b402080f7e7998d"
 metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "9021373fd29290673c6b551225ae88ea2b323768ee9803e90bae68ea02633949"
+hash = "6468fef096814df1ca5fd3d7948dedeba05a499e637d13eb4e8f673ed84eebcc"
 metafile = true
 
 [[files]]
-file = "mods/betterf3-0.6.1.jar"
-hash = "bef797f1ecd1026df0aef605b3d48fc22f710fc2b1953b71a10bba01915e00ac"
+file = "mods/amphetamine-0.3.jar"
+hash = "8fa8dfdbec39255b2e9c8ec15f3ce009f87e7689e76f050c3104889e31365128"
+
+[[files]]
+file = "mods/betterf3-0.7.0.jar"
+hash = "35b389a00dfffce98f7240610b96e2907a3401d9b0f2066dfc0547ac4a293e61"
 
 [[files]]
 file = "mods/entity-culling-1.6.3.jar"
@@ -139,8 +143,8 @@ file = "mods/freecam-0.3.2.jar"
 hash = "f35c5b07ef0359d76f07d1ff5c1b4b8c32030e1fdbb6aca900f9e7b7326f7283"
 
 [[files]]
-file = "mods/gambac-1.3.1.jar"
-hash = "0fe10019cd274cb33a1ba064fabea4e906010df16a11a7c7eb9ac455db153ef8"
+file = "mods/gambac-1.3.2.jar"
+hash = "e03007bfdd6c14084094484ccace7c9ab4086da496654e6d9c089478bb27e737"
 
 [[files]]
 file = "mods/glass-networking-1.0.7.jar"
@@ -157,6 +161,10 @@ hash = "2d1b03e2e29625059aae5ad77828003b3a1680223049a856bc457a87c0c244b7"
 [[files]]
 file = "mods/retrocommands-0.5.10.jar"
 hash = "b82604ed559bdd6c910206ab377e108330295c9841b58eaa0043c08f1aa5c99f"
+
+[[files]]
+file = "mods/shineko-1.0.0-alpha.4.jar"
+hash = "d2dddb559c283324e1a8ae9d0291a54b1e9ab6a94e1233a0ee919f437cc03fa9"
 
 [[files]]
 file = "shaderpacks/SEUS v06.zip"

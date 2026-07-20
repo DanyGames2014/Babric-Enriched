@@ -1,11 +1,6 @@
 name = "Aether"
-filename = "aether-1.4.1.jar"
+filename = "aether-1.5.0.jar"
 side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/9XSScuqN/versions/cBkbpDhz/aether-1.4.1.jar"
-hash-format = "sha256"
-hash = "d7a859e2b0314daaf326ea6210ea70343f61440926a3a6eb802614e6e6e5932d"
 
 [option]
 optional = true
