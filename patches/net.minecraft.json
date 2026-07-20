@@ -12,10 +12,9 @@
         "url": "https://piston-meta.mojang.com/v1/packages/3d8e55480977e32acd9844e545177e69a52f594b/pre-1.6.json"
     },
     "compatibleJavaMajors": [
-        21,
-        17
+        21
     ],
-    "compatibleJavaName": "java-runtime-gamma",
+    "compatibleJavaName": "java-runtime-delta",
     "formatVersion": 1,
     "mainJar": {
         "downloads": {
@@ -32,7 +31,7 @@
     "releaseTime": "2011-07-08T00:00:00+02:00",
     "requires": [
         {
-            "suggests": "2.9.4+legacyfabric.15",
+            "suggests": "2.9.4+legacyfabric.17",
             "uid": "org.lwjgl"
         }
     ],

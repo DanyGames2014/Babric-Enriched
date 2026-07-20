@@ -2,7 +2,7 @@
     "components": [
         {
             "cachedName": "LWJGL 2",
-            "cachedVersion": "2.9.4+legacyfabric.15",
+            "cachedVersion": "2.9.4+legacyfabric.17",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl",
@@ -12,7 +12,7 @@
             "cachedName": "Minecraft",
             "cachedRequires": [
                 {
-                    "suggests": "2.9.4+legacyfabric.15",
+                    "suggests": "2.9.4+legacyfabric.17",
                     "uid": "org.lwjgl"
                 }
             ],
@@ -47,9 +47,9 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "cachedVersion": "0.19.2",
+            "cachedVersion": "0.19.3",
             "uid": "net.fabricmc.fabric-loader",
-            "version": "0.19.2"
+            "version": "0.19.3"
         }
     ],
     "formatVersion": 1
